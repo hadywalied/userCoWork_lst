@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "416889731495",
+    "firebase_url": "https://cowork-1531580974287.firebaseio.com",
+    "project_id": "cowork-1531580974287",
+    "storage_bucket": "cowork-1531580974287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416889731495:android:64f46c387d20db88",
+        "android_client_info": {
+          "package_name": "com.fekra.usercowork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416889731495-ucactd7hvennkhaeu5sc1f5cvu0dhnsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fekra.usercowork",
+            "certificate_hash": "18325b10302695d04ef144fc9874ebefbc57a25e"
+          }
+        },
+        {
+          "client_id": "416889731495-tgt38ivf9av7lct13q1mr86vjv9l5ic1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiVORo1nhUNwIGCthFy4Mye-Pnx3W3Vyc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416889731495-tgt38ivf9av7lct13q1mr86vjv9l5ic1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
